@@ -43,10 +43,10 @@ HOST-SUFFIX,Emby.kim,emby
 HOST-SUFFIX,ha.emby.kim,Emby
 HOST-SUFFIX,emby.jiasu.ga,Emby
 HOST-SUFFIX,cf.misakaf.org,Emby
+HOST-SUFFIX,64.32.25.204,Emby
 HOST-KEYWORD,emby,Emby
 HOST-KEYWORD,kim,Emby
 HOST-KEYWORD,jmaooo.com,Emby
 HOST-KEYWORD,odysseyplus,Emby
 HOST-KEYWORD,xeton.dev,Emby
 IP-CIDR,161.97.148.156/24,Emby
-IP-CIDR,64.32.25.204/8096,Emby
